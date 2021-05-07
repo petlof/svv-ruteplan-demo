@@ -27,7 +27,7 @@
     "es6-promise-promise": "^1.0.0",
     "leaflet": "^1.5.1",
     "leaflet-contextmenu": "^1.4.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mixin-deep": "^2.0.1",
     "proj4leaflet": "^1.0.2",
     "query-string": "^6.8.3",
